@@ -2,21 +2,7 @@
 
 ## Project Directory Structor
 
-ecommerce-app/
-├── product-service/
-│   ├── app.js
-│   ├── package.json
-│   ├── Dockerfile
-├── order-service/
-│   ├── app.js
-│   ├── package.json
-│   ├── Dockerfile
-├── user-service/
-│   ├── app.js
-│   ├── package.json
-│   ├── Dockerfile
-├── docker-compose.yml
-└── README.md
+![alt text](image.png)
 
 ## Prerequisite
 
