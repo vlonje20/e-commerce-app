@@ -12,6 +12,3 @@
 
 ![alt text](image-2.png)
 
-- Running Containers 
-- Kubernetes pods and services
-- API responses from testing
