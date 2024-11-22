@@ -89,7 +89,3 @@ docker run -d --name order-container -p 5002:5002 order-service:1.0
 ```python
 docker run -d --name user-container -p 5003:5003 user-service:1.0
 ```
-
-docker run -p 5001:5001 product-service:1.0
-docker run -p 5002:5002 order-service:1.0
-docker run -p 5003:5003 user-service:1.0
